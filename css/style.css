@@ -58,7 +58,8 @@ mark {
 
 
 .container {
-	width: 1024px;
+	width: 60%;
+	min-width: 400px;
 	min-height: 200px;
 	margin: 0 auto; /* top and bottom, right and left */
 	border: 1px hidden #000;
@@ -70,7 +71,8 @@ mark {
 }
 
 .containersmall {
-	width: 1024px;
+	width: 60%;
+	min-width: 400px;
 	min-height: 10px;
 	margin: 0 auto; /* top and bottom, right and left */
 	border: 1px hidden #000;
@@ -82,7 +84,7 @@ mark {
 }
 
 .schedule {
-	width: 900px;
+	width: 70%;
 	min-height: 200px;
 	margin: 0 auto; /* top and bottom, right and left */
 	/*border: 1px solid #000;*/
@@ -106,7 +108,7 @@ mark {
 }
 
 .publication {
-	width: 900px;
+	width: 100%;
 	min-height: 20px;
 	margin: 0 auto; /* top and bottom, right and left */
 	/*border: 1px solid #000;*/
@@ -119,7 +121,7 @@ mark {
 
 .paper {
 	clear: both;
-  	width: 700px;
+  	width: 100%;
 	margin: 0 auto; /* top and bottom, right and left */
 	border: 1px hidden rgb(0, 0, 0);
 	/* border: none; */
