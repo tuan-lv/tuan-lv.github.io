@@ -119,8 +119,9 @@ mark {
 	background: #FFFFFF;
 }
 
-.publication >table > td {
+.publication > table > td {
 	padding: 1em 1em 1em 1em;
+	background-color: #1772d0;
 }
 
 .paper {
