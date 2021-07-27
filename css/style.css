@@ -119,6 +119,10 @@ mark {
 	background: #FFFFFF;
 }
 
+.publication > td {
+	padding: 1em 1em 1em 1em;
+}
+
 .paper {
 	clear: both;
   	width: 100%;
