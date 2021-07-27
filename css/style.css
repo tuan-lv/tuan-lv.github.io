@@ -234,3 +234,13 @@ table.psets {
   text-align: center;
   margin-right: 20px;
 }
+
+.publicationtable {
+	border: none;
+	border-collapse: collapse;
+}
+
+.publicationtable th,
+.publicationtable td {
+	padding: 12px, 12px;
+}
