@@ -119,7 +119,7 @@ mark {
 	background: #FFFFFF;
 }
 
-.publication > td {
+.publication >table > td {
 	padding: 1em 1em 1em 1em;
 }
 
