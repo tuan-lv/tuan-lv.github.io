@@ -116,7 +116,7 @@ mark {
 }
 
 .publication {
-	width: 100%;
+	width: 90%;
 	min-height: 20px;
 	margin: 0 auto; /* top and bottom, right and left */
 	/*border: 1px solid #000;*/
