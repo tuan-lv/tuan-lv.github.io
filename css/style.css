@@ -119,11 +119,6 @@ mark {
 	background: #FFFFFF;
 }
 
-.publication > table > td {
-	padding: 1em 1em 1em 1em;
-	background-color: #1772d0;
-}
-
 .paper {
 	clear: both;
   	width: 100%;
@@ -233,14 +228,4 @@ table.psets {
   width: 140px;
   text-align: center;
   margin-right: 20px;
-}
-
-.publicationtable {
-	border: none;
-	border-collapse: collapse;
-}
-
-
-.publicationtable td {
-	padding: 12px, 12px;	
 }
